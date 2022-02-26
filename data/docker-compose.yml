@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  db:
+    image: mysql:5.6
+    container_name: db
+    ports:
+      - 3306:3306
+    volumes:
+      - ./my_data:/var/lib/mysql
+    environment:
+        - MYSQL_ROOT_PASSWORD=virtex
+        - MYSQL_DATABASE=virtex
