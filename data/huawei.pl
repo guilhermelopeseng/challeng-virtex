@@ -4,7 +4,7 @@ use warnings;
 use strict;
 use DBI;
 
-my $filename = '/home/guilh/guilhermelopeseng/challeng-virtex/data/OntInfo - Huawei.txt';
+my $filename = './OntInfo - Huawei.txt';
 
 open(FH, '<', $filename) or die $!;
 

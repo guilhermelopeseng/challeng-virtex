@@ -5,8 +5,8 @@ use strict;
 use DBI;
 use Data::Dumper;
 
-my $filename_states = '/home/guilh/guilhermelopeseng/challeng-virtex/data/OntInfo - ZTE - SNs - State.txt';
-my $filename_zte = '/home/guilh/guilhermelopeseng/challeng-virtex/data/OntInfo - ZTE - SNs.txt';
+my $filename_states = './OntInfo - ZTE - SNs - State.txt';
+my $filename_zte = './OntInfo - ZTE - SNs.txt';
 
 open(FHS, '<', $filename_states) or die $!;
 open(FHZ, '<', $filename_zte) or die $!;

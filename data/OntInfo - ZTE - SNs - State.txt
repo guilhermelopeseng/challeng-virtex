@@ -100,7 +100,7 @@ OnuIndex   Admin State  OMCC State  Phase State  Channel
 1/1/1:119   enable       enable      working      1(GPON)
 1/1/1:120   enable       enable      working      1(GPON)
 1/1/1:121   enable       enable      working      1(GPON)
-1/1/1:122   enable       enable      online      1(GPON)
+1/1/1:122   enable       enable      working      1(GPON)
 1/1/1:123   enable       enable      working      1(GPON)
 1/1/1:124   enable       enable      working      1(GPON)
 1/1/1:125   enable       enable      working      1(GPON)

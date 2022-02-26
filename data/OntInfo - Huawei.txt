@@ -6,6 +6,7 @@
   F/S/P   ONT         SN         Control     Run      Config   Match    Protect
           ID                     flag        state    state    state    side 
   -----------------------------------------------------------------------------
+  0/ 3/6    0  444753542140AF37  active      online   normal   match    no 
   0/ 3/6    1  444753542140B5B4  active      offline  initial  initial  no 
   0/ 3/6    2  444753542140BA97  active      online   normal   match    no 
   0/ 3/6    3  48575443AA81E6A3  active      online   normal   match    no 
@@ -225,7 +226,7 @@
   0/ 3/6     105   teste105@12345.com
   0/ 3/6     106   teste106@12345.com
   0/ 3/6     107   teste107@12345.com
-  0/ 3/7     108   teste108@12345.com
+  0/ 3/6     108   teste108@12345.com
   -----------------------------------------------------------------------------
   In port 0/ 3/6 , the total of ONTs are: 109, online: 97
   -----------------------------------------------------------------------------
